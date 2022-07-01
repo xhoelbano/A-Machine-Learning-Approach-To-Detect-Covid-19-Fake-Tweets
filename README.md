@@ -9,5 +9,7 @@ To develop a classification model for COVID-19 news (tweets), using the simple b
 This dataset is made up of tweets from extracted from Twitter and represent actual or fraudulent news on the COVID-19 pandemic. The dataset includes information about each tweet's id, which is not essential to our classification, as well as two categorical values: the tweet's text and the class that it belongs to. The two class labels for this binary classification problem are fake and real, as was previously indicated. 35,024 tweet samples make up the dataset. There are no missing values to contend with because it is personally curated from the respective writers. 
 
 [1] Aman Miglani, “Coronavirus tweets NLP - Text Classification” dataset,  https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification?resource=download (lastly visited on 30 May 2022).
-[4] P. Patwa et al., “Fighting an Infodemic: COVID-19 Fake News Dataset,” arXiv:2011.03327 [cs.CL], Nov 2020.
-[10] L. Cui και D. Lee, ‘CoAID: COVID-19 Healthcare Misinformation Dataset’, arXiv [cs.SI]. 2020.
+
+[2] P. Patwa et al., “Fighting an Infodemic: COVID-19 Fake News Dataset,” arXiv:2011.03327 [cs.CL], Nov 2020.
+
+[3] L. Cui και D. Lee, ‘CoAID: COVID-19 Healthcare Misinformation Dataset’, arXiv [cs.SI]. 2020.
